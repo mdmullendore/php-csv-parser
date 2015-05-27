@@ -38,11 +38,19 @@ app built using the following:
 file structure and descriptions:
 
 1) config.ini - database configuration
+
 2) index.php - front end dev
+
 3) connection.php - PDO connection class
+
 4) csv_import.php - import, test file, convert state name, & test for duplicates
+
 5) csv_export.php - export database into html table
+
 6) css/bootstrap.min.css - responsive css framework for front end dev
+
 7) javascript/jquery-1.11.3.min.js - jquery javascript library
+
 8) javascript/alert.js - javascript for timed alert message from csv_import.php
+
 9) MOCK_DATA.csv - use for testing csv upload
